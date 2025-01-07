@@ -17,5 +17,4 @@ Agenda Power is an application built on Power Apps to simplify business contact 
 ![image](https://github.com/user-attachments/assets/cc812f49-f94e-4580-8e74-b58da4d22dc6)
 ![image](https://github.com/user-attachments/assets/ee01aca5-e349-458c-93f2-4fc4667d17c7)
 ![image](https://github.com/user-attachments/assets/847df573-7260-46fb-8a1f-ddf9bf24d5b7)
-![image](https://github.com/user-attachments/assets/2de2a502-cf07-4c1d-a1a1-fafdaebc0cf8)
 ![image](https://github.com/user-attachments/assets/3d637221-548e-4d96-9d52-0143fba78ea5)
